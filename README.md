@@ -1,9 +1,9 @@
 Application: Google Ad Classifier to classify web promotions as one of 5 ad classifications:
-* product promotion
-* service promotion
-* sales promotion
-* lead generation
-* brand awareness
+* Product Promotion
+* Service Promotion
+* Sales Promotion
+* Lead Generation
+* Brand Awareness
 
 Final Classifier hosted on HuggingFace: [Ad Promotion Classifier](https://huggingface.co/tejasc/AdTypeClassifier)
 
