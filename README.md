@@ -7,7 +7,7 @@ Application: Google Ad Classifier to classify web promotions as one of 5 ad clas
 
 Final Deliverable hosted on HuggingFace: [Ad Promotion Classifier](https://huggingface.co/tejasc/AdTypeClassifier)
 
-This served as a final group project, tasked with creating a classification expert used for business applications based on Daniel Ringel's SyntheticExpert: [Creating Synthetic Experts with Generative Artificial Intelligence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4542949)
+Based on this Paper: [Creating Synthetic Experts with Generative Artificial Intelligence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4542949)
 
 
 This classifier was built using 27,000 webscraped Google Ads by various companies using Gustavo Silva's [Google Ads Scraper](https://console.apify.com/actors/N8vqwV9wL9wpIsLDz/console) on Apify. The data was cleaned and preprocessed before being labeled using OpenAI's GPT4.
